@@ -1,4 +1,7 @@
 # PHPtest
+Authentication:Authentication is the process by which we can validate users credentials at a time.
+Authorization:Authorization is the process by which we can give permissions to the users and we specify their aceess to different parts of a website.
+
 This repo contains all the files I had to create to complete the assignment
 Procedure of how to run the assignment:
 1.We need a web server installed on our local machine(in my case it is XAMPP)
